@@ -1,4 +1,4 @@
-# Coder Desafio N° 1
+# Coder Desafio N° 2
 
 ### `node test.js`
 
